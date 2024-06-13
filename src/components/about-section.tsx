@@ -31,6 +31,7 @@ const AboutSection = () => {
           <div className="mt-8 flex flex-col space-y-4 md:flex-row md:space-x-4 md:space-y-0">
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://drive.google.com/file/d/1946dbMKu_5XgrsrOKLC9mIazPahqbh6X/view?usp=sharing"
               className="text-neutral-100 flex items-center justify-center w-full md:w-1/4 font-semibold px-3 py-3 bg-black rounded shadow hover:bg-teal-700"
             >
@@ -38,6 +39,7 @@ const AboutSection = () => {
             </a>
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://www.linkedin.com/in/boyusu"
               className="text-neutral-100 flex items-center justify-center w-full md:w-1/4 font-semibold px-3 py-3 bg-black rounded shadow hover:bg-teal-700"
             >
@@ -48,6 +50,7 @@ const AboutSection = () => {
             </a>
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://github.com/SuBoYu"
               className="text-neutral-100 flex items-center justify-center w-full md:w-1/4 font-semibold px-3 py-3 bg-black rounded shadow hover:bg-teal-700"
             >

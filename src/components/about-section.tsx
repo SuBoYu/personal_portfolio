@@ -2,13 +2,14 @@
 import React from "react";
 import Image from "next/image";
 import { Link } from "react-scroll/modules";
-import { HiArrowDown } from "react-icons/hi";
+import { BsFillMicFill } from "react-icons/bs";
+import { HiArrowDown, HiArrowCircleRight} from "react-icons/hi";
 
 const AboutSection = () => {
   return (
     <section id="about">
       <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 py-16 sm:py-32 md:py-48 md:flex-row md:space-x-4 md:text-left">
-        <div className="md:mt-2 md:w-1/2">
+        <div className="md:mt-2 md:w-2/5">
           <Image
             src="/headshot.jpg"
             alt=""
@@ -25,7 +26,16 @@ const AboutSection = () => {
             <span className="font-semibold text-teal-600">
               Software Engineer <br />
               Entrepreneur <br />
-              Podcaster <br />
+              Podcaster
+              <a
+                href="https://solink.soundon.fm/moonshot"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center space-x-2 text-teal-600 hover:text-teal-800 ml-2"
+              >
+                <HiArrowCircleRight size={20} />
+                <span>Moonshot Podcast</span>
+              </a>
             </span>
           </p>
           <div className="mt-8 flex flex-col space-y-4 md:flex-row md:space-x-4 md:space-y-0">
@@ -60,8 +70,6 @@ const AboutSection = () => {
               GitHub
             </a>
           </div>
-          
-
         </div>
       </div>
       <div className="flex flex-row items-center text-center justify-center ">

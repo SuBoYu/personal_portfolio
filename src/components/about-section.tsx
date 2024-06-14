@@ -26,16 +26,18 @@ const AboutSection = () => {
             <span className="font-semibold text-teal-600">
               Software Engineer <br />
               Entrepreneur <br />
-              Podcaster
-              <a
-                href="https://solink.soundon.fm/moonshot"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center space-x-2 text-teal-600 hover:text-teal-800 ml-2"
-              >
-                <HiArrowCircleRight size={20} />
-                <span>Moonshot Podcast</span>
-              </a>
+              <span className="flex items-end">
+                Podcaster
+                <a
+                  href="https://solink.soundon.fm/moonshot"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center space-x-2 text-teal-600 hover:text-teal-800 ml-2"
+                >
+                  <HiArrowCircleRight size={20} />
+                  <span>Moonshot Podcast</span>
+                </a>
+              </span>
             </span>
           </p>
           <div className="mt-8 flex flex-col space-y-4 md:flex-row md:space-x-4 md:space-y-0">

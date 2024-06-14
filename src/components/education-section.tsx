@@ -6,19 +6,19 @@ const educationData = [
     institution: "University of Illinois at Urbana-Champaign",
     logo: "/uiuc-logo.png",
     degree: "Master of Computer Science",
-    graduation: "Jan. 2024 - May 2025",
+    date: "Jan. 2024 - May 2025",
   },
   {
     institution: "University of Southampton",
     logo: "/uos-logo.png",
     degree: "Exchange program in Computer Science",
-    graduation: "Jan. 2022 - June 2022",
+    date: "Jan. 2022 - June 2022",
   },
   {
     institution: "National Yang Ming Chiao Tung University",
     logo: "/nycu-logo.png",
     degree: "Bachelor of Science in Computer Science",
-    graduation: "Sep. 2018 - June 2022",
+    date: "Sep. 2018 - June 2022",
   },
 ];
 
@@ -49,7 +49,7 @@ const EducationSection = () => {
                     {education.degree}
                   </p>
                   <p className="text-xl leading-7 mb-4 text-neutral-600 dark:text-neutral-400">
-                    {education.graduation}
+                    {education.date}
                   </p>
                 </div>
               </div>

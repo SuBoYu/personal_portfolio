@@ -15,6 +15,12 @@ const experienceData = [
     date: "July. 2021 - Present",
   },
   {
+    institution: "Quant Illinois",
+    logo: "/quant-logo.png",
+    position: "Director of quantitative trading",
+    date: "Feb. 2024 - Present",
+  },
+  {
     institution: "OTSO Fintech",
     logo: "/otso-logo.png",
     position: "Software Engineer",

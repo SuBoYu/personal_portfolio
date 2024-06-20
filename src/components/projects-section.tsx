@@ -21,6 +21,17 @@ const projects = [
     ],
   },
   {
+    name: "Qstar",
+    description: "an advanced machine learning porfolio optimization solution",
+    image: "/qstar.png",
+    github: "https://github.com/SuBoYu/Qstar_model",
+    link: "https://www.linkedin.com/in/boyusu/details/experience/2339071402/multiple-media-viewer/?profileId=ACoAACyesS8B2oi1D7qW1TNlwAobhn4IfnxB6SU&treasuryMediaId=1717338190749",
+    details: [
+      "Developed the QStar model utilizing machine learning algorithms (XGBoost, LGBM) to identify outperforming equities and rebalance the fund allocation within the QuantX portfolio, increasing return by 2.32% and lowering drawdown by 3.72%",
+      "Spearheaded the formulation of project objectives and guided a team of 4 quantitative developers to achieve project goals",
+    ],
+  },
+  {
     name: "WhatNext",
     description: "an advanced music recommendation system that utilizes LLM and IR techniques",
     image: "/whatnext.png",

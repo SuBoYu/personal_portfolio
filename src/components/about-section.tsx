@@ -24,8 +24,8 @@ const AboutSection = () => {
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             <span className="font-semibold text-teal-600">
-              Software Engineer <br />
               Entrepreneur <br />
+              Software Engineer <br />
               <span className="flex items-end">
                 Podcaster
                 <a
@@ -44,7 +44,7 @@ const AboutSection = () => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://drive.google.com/file/d/1YYEoY1SDGWuWyDsHAn4sDOFDpJ7WqkHz/view?usp=sharing"
+              href="https://drive.google.com/file/d/1tXgqEB6IGM2tX47q_rMcsX-x_htvsiob/view?usp=sharing"
               className="text-neutral-100 flex items-center justify-center w-full md:w-1/4 font-semibold px-3 py-3 bg-black rounded shadow hover:bg-teal-700"
             >
               Resume

@@ -5,7 +5,7 @@ const experienceData = [
   {
     institution: "Trend Micro",
     logo: "/trend-micro-logo.png",
-    position: "LLM Software Engineer Intern",
+    position: "LLM Software Development Intern",
     date: "July 2024 - August 2024",
   },
   {
@@ -29,7 +29,7 @@ const experienceData = [
   {
     institution: "DBS Bank",
     logo: "/dbs-logo.png",
-    position: "IT Intern",
+    position: "Software Development Intern",
     date: "July 2022 - Aug. 2022",
   },
 ];

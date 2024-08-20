@@ -44,7 +44,7 @@ const AboutSection = () => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://drive.google.com/file/d/1tXgqEB6IGM2tX47q_rMcsX-x_htvsiob/view?usp=sharing"
+              href="https://drive.google.com/file/d/1x1-tJZsLU2Wux4LGv4AgpnfwSCmp9fx0/view?usp=sharing"
               className="text-neutral-100 flex items-center justify-center w-full md:w-1/4 font-semibold px-3 py-3 bg-black rounded shadow hover:bg-teal-700"
             >
               Resume

@@ -4,19 +4,20 @@ import Image from "next/image"
 const programmingLanguages = [
   { skill: "Python" },
   { skill: "Go" },
+  { skill: "Javascript," },
+  { skill: "TypeScript" },
   { skill: "C/C++" },
   { skill: "PHP" },
   { skill: "SQL" },
   { skill: "HTML/CSS" },
-  { skill: "Javascript," },
-  { skill: "TypeScript" },
+  { skill: "Lua" },
 ]
 
 const frameworks = [
-  { skill: "Gin" },
-  { skill: "Django" },
   { skill: "Flask" },
   { skill: "FastAPI" },
+  { skill: "Django" },
+  { skill: "Gin" },
   { skill: "Next.js" },
   { skill: "Charts.js" },
   { skill: "React" },
@@ -30,16 +31,19 @@ const frameworks = [
   { skill: "Neo4j" },
   { skill: "Redis" },
   { skill: "Apache Airflow" },
+  { skill: "RabbitMQ" },
+  { skill: "Celery" },
   { skill: "JWT" },
   { skill: "OAuth" },
-  { skill: "FlatBuffers" },
   { skill: "Streamlit" },
+  { skill: "LangChain" },
+  { skill: "FlatBuffers" },
 ];
 
 const tools = [
   { skill: "Kubernetes" },
   { skill: "Docker" },
-  { skill: "Drone (CICD)" },
+  { skill: "CICD" },
   { skill: "Git" },
   { skill: "Jira" },
   { skill: "Postman" },
@@ -50,6 +54,7 @@ const tools = [
   { skill: "Vercel" },
   { skill: "Figma (UI)" },
   { skill: "Selenium" },
+  { skill: "GNS3" },
 ];
 
 

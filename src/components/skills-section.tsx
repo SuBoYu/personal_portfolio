@@ -6,6 +6,7 @@ const programmingLanguages = [
   { skill: "Go" },
   { skill: "Javascript," },
   { skill: "TypeScript" },
+  { skill: "Java" },
   { skill: "C/C++" },
   { skill: "PHP" },
   { skill: "SQL" },
@@ -53,6 +54,7 @@ const tools = [
   { skill: "Heroku" },
   { skill: "Vercel" },
   { skill: "Figma (UI)" },
+  { skill: "Android Studio" },
   { skill: "Selenium" },
   { skill: "GNS3" },
 ];

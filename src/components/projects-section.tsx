@@ -39,7 +39,7 @@ const projects = [
     link: "https://whatnext-io.streamlit.app/",
     details: [
       "Developed a playlist recommendation platform leveraging GPT-3.5 Turbo and Spotify API for interactive experiences; integrated TF-IDF and cosine similarity for context-aware recommendation, trained on a million-playlist dataset",
-      "Architected a full-stack application with Streamlit for visualization and validated its performance through user studies",
+      "Architected a Java mobile app using Android Studio and assessed its performance through user studies",
     ],
   },
   {

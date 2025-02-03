@@ -9,16 +9,16 @@ const experienceData = [
     date: "July 2024 - August 2024",
   },
   {
-    institution: "QuantX",
-    logo: "/quantx-logo.png",
-    position: "Co-Founder and Lead Developer",
-    date: "July. 2021 - Present",
-  },
-  {
     institution: "Quant Illinois",
     logo: "/quant-logo.png",
     position: "Director of quantitative trading",
-    date: "Feb. 2024 - Present",
+    date: "Feb. 2024 - Jan. 2025",
+  },
+  {
+    institution: "QuantX",
+    logo: "/quantx-logo.png",
+    position: "Co-Founder and Lead Developer",
+    date: "July. 2021 - Dec. 2024",
   },
   {
     institution: "OTSO Fintech",

@@ -3,16 +3,10 @@ import Image from "next/image"
 
 const experienceData = [
   {
-    institution: "Trend Micro",
-    logo: "/trend-micro-logo.png",
-    position: "LLM Software Development Intern",
-    date: "July 2024 - August 2024",
-  },
-  {
-    institution: "Quant Illinois",
-    logo: "/quant-logo.png",
-    position: "Director of quantitative trading",
-    date: "Feb. 2024 - Jan. 2025",
+    institution: "OTSO Fintech",
+    logo: "/otso-logo.png",
+    position: "Software Engineer",
+    date: "Aug. 2022 - Feb. 2023",
   },
   {
     institution: "QuantX",
@@ -21,10 +15,16 @@ const experienceData = [
     date: "July. 2021 - Dec. 2024",
   },
   {
-    institution: "OTSO Fintech",
-    logo: "/otso-logo.png",
-    position: "Software Engineer",
-    date: "Aug. 2022 - Feb. 2023",
+    institution: "Quant Illinois",
+    logo: "/quant-logo.png",
+    position: "Director of quantitative trading",
+    date: "Feb. 2024 - Jan. 2025",
+  },
+  {
+    institution: "Trend Micro",
+    logo: "/trend-micro-logo.png",
+    position: "LLM Software Development Intern",
+    date: "July 2024 - August 2024",
   },
   {
     institution: "DBS Bank",
